@@ -25,3 +25,7 @@ Before finishing a marketing task:
 3. Check the "What never goes here" list in `mamansh-brain/CLAUDE.md` before committing.
 4. Commit with a clear message and push to `main` of `mamansh-brain`.
 5. Tell the user what you changed in the brain.
+
+# Other knowledge bases
+
+- **[real-simple-labs/parker-brain](https://github.com/real-simple-labs/parker-brain)**: knowledge base for Parker. When a task involves Parker, attach it with `add_repo` (owner `real-simple-labs`, repo `parker-brain`), clone it to `/home/user/parker-brain`, register it with `register_repo_root`, and start from its README and CLAUDE.md.
